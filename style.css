@@ -25,3 +25,8 @@ img  {
         width: 40%;  
         height: auto;
     }
+li {
+    font-size: 15px;
+    font-family: arial;
+    color: black;
+}
